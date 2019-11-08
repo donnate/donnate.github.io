@@ -24,4 +24,4 @@ citation: 'Donnat, Claire. (2019). &quot;Constrained Bayesian ICA for Brain Conn
 
 [Download paper here](http://donnate.github.io/files/paper1.pdf)
 
-Recommended citation: Donnat Claire, et al. (2019). "Constrained Bayesian ICA for Brain Connectomics" <i>Journal 1</i>.
+Recommended citation: Donnat Claire, et al. (2019). "Constrained Bayesian ICA for Brain Connectomics" <i>arXiv</i>.

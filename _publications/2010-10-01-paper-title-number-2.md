@@ -1,6 +1,5 @@
 ---
-title: "Convex Hierarchical Clustering for
-Graph-Structured Data"
+title: "Convex Hierarchical Clustering for Graph-Structured Data"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Abstract—Convex clustering  is a recent stable alternative to
@@ -25,7 +24,7 @@ date: 2019-11-06
 venue: 'IEEE Transactions on Signal Processing'
 paperurl: 'http://donnate.github.io/files/main_HC.pdf'
 citation: 'Donnat, Claire and Holmes, Susan. (2019). &quot;Convex Hierarchical Clustering for
-Graph-Structured Data.&quot; <i>Journal 1</i>.'
+Graph-Structured Data.&quot; <i>IEEE Transactions on Signal Processin1</i>.'
 ---
 Abstract—Convex clustering is a recent stable alternative to
 hierarchical clustering. It formulates the recovery of progressively

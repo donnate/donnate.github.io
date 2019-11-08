@@ -10,14 +10,13 @@ In this review, we thus  propose to provide an overview of some of the
 existing distances and to introduce a few alternative ones. In particular, we will try to provide ground
 ground and principles for choosing an appropriate distance over another, and highlight these
 properties on both a real-life microbiome application as well as synthetic examples. Finally, we extend our study to the analysis spatial dynamics, and show the performance of our method on a recipe network. 
-
 '
 date: 2018-01-22
 venue: ' Annals of Applied Statistics 12.2 (2018): 971-1012'
 paperurl: 'http://donnate.github.io/files/distances.pdf'
-citation: 'Donnat, Claire and Holmes, Susan (2018). . &quot;Tracking network distances: an overview.&quot; <i> Annals of Applied Statistics 12.2 (2018): 971-1012</i>. 1(3).'
+citation: 'Donnat, Claire and Holmes, Susan (2018). . &quot;Tracking network distances: an overview.&quot; <i> Annals of Applied Statistics 12.2 (2018): 971-1012</i>.'
 ---
 
 [Download paper here](http://donnate.github.io/files/distances.pdf)
 
-Recommended citation: Donnat, Claire and Holmes, Susan (2018). "Tracking network distances: an overview." <i>Annals of Applied Statistics</i>. 1(3).
+Recommended citation: Donnat, Claire and Holmes, Susan (2018). "Tracking network distances: an overview." <i>Annals of Applied Statistics</i>.
