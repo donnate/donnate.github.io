@@ -1,7 +1,7 @@
 ---
 title: "Constrained Bayesian ICA for Brain Connectomics"
 collection: publications
-permalink: 
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Brain connectomics is a developing field in neurosciences which strives to
 understand cognitive processes and psychiatric diseases through the analysis of
 interactions between brain regions. However, in the high-dimensional, low-sample,

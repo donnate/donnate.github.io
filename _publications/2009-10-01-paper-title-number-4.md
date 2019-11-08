@@ -1,8 +1,8 @@
 ---
 title: "Learning Structural Node Embeddings Via Diffusion Wavelets"
 collection: publications
-permalink: 
-excerpt: '							 One of the stepping stones for <em> understanding and characterizing network structures </em>consists in the <b><em>representation and detection of
+permalink: /publication/2009-10-01-paper-title-number-4
+excerpt: 'One of the stepping stones for <em> understanding and characterizing network structures </em>consists in the <b><em>representation and detection of
 structural similarities </em></b>– that is, nodes sharing similar ”roles” in the network while residing in different parts of the graphs. However, this is a challenging unsupervised learning task, which usually requires the enumeration and hand-tailoring of graph topological features deemed relevant for the task by the data analyst. </p>
 
  <p> To circumvent this problem, we propose <b>GraphWave</b>, a method based on Spectral Heat Wavelet for detecting structural similarities. Similar to sonar detection, <b>GraphWave</b> probes the network by diffusing heat wavelets 
