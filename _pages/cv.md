@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Classes Préparatoires in Mathematics and Physics (MPSI/ MP*) in Lycée Privé Sainte Geneviève, Versailles, 2010-2012
-* Diplôme d'Ingénieur, Ecole Polytechniaue, 2014
+* Diplôme d'Ingénieur, Ecole Polytechnique, 2014
 * M.S. in Applied Mathematics, Ecole Polytechnique, 2015
 * Ph.D in Statistics, Stanford University, 2020 (expected)
 
