@@ -1,7 +1,7 @@
 ---
 title: "Geomstats: a Python Package for Riemannian Geometry in Machine Learning"
 collection: publications
-permalink: https://arxiv.org/abs/1805.08308
+permalink: /publication/2010-10-01-paper-title-number-5
 excerpt: 'Given data that lies in a union of low-dimensional subspaces, the problem of subspace clustering aims to learn - in an unsupervised manner - the membership of the data to their respective subspaces. State-of-the-art subspace clustering methods typically adopt a two-step procedure, by (a) constructing an affinity measure among data points is constructed, and (b) applying spectral clustering to find the membership of the data to their respective subspaces. However, such methods difficulty scale up to large-scale datasets.
  
 
@@ -9,7 +9,7 @@ We introduce geomstats, a Python package for Riemannian modelization and optimiz
 <p> <b>Geomstats: a Python Package for Riemannian Geometry in Machine Learning</b>, Nina Miolane, Johan Mathe, Claire Donnat, Mikael Jorda and Xavier Pennec. (Under review)
 date: 2018-11-06
 venue: 'Under submission'
-paperurl: 'http://donnate.github.io/files/main_geomstat.pdf'
+paperurl: 'https://arxiv.org/abs/1805.08308'
 citation: 'Miolane, Nina et al. (2018). &quot;Geomstats: a Python Package for Riemannian Geometry in Machine Learning.&quot; <i>arXiv</i>. 1(1).'
 ---
 

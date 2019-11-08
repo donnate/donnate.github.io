@@ -18,7 +18,7 @@ exibility of our method and highlight the the benefits of integrating anatomical
 date: 2019-11-07
 venue: 'arXiv (Under submission)'
 paperurl: 'http://donnate.github.io/files/paper1.pdf'
-citation: 'Donnat, Claire. (2019). &quot;Constrained Bayesian ICA for Brain Connectomics 1.&quot; <i>Journal 1</i>.'
+citation: 'Donnat, Claire. (2019). &quot;Constrained Bayesian ICA for Brain Connectomics 1.&quot; <i>arXiv</i>.'
 ---
 
 
