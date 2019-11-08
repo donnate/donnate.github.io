@@ -1,27 +1,20 @@
 ---
-title: "Constrained Bayesian ICA for Brain Connectomics"
+title: "Large-Scale Subspace Clustering for Computer Vision"
 collection: publications
-permalink: 
-excerpt: 'Brain connectomics is a developing'
-date: 2019-11-07
-venue: 'Under submission'
-paperurl: 'http://donnat.github.io/files/paper1.pdf'
-citation: 'Donnat, Claire. (2019). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: http://ieeexplore.ieee.org/abstract/document/7869521/
+excerpt: 'Given data that lies in a union of low-dimensional subspaces, the problem of subspace clustering aims to learn - in an unsupervised manner - the membership of the data to their respective subspaces. State-of-the-art subspace clustering methods typically adopt a two-step procedure, by (a) constructing an affinity measure among data points is constructed, and (b) applying spectral clustering to find the membership of the data to their respective subspaces. However, such methods difficulty scale up to large-scale datasets.
+
+In this work, we propose a divide-and-conquer framework for large-scale subspace clustering, allowing SSC techniques to scale up to datasets of more than 100,000 points. 
+We highlighted the performance of our approach on synthetic large-scale datasets with 1,000,000 data points, as well as on the MNIST database, which contains 70,000 images of handwritten digits.'
+date: 2016-11-07
+venue: 'Signals, Systems and Computers, 2016 50th Asilomar Conference on, pp. 1014-1018. IEEE, 2016'
+paperurl: 'http://ieeexplore.ieee.org/abstract/document/7869521/'
+citation: ' Chong You, Claire Donnat, Daniel P. Robinson, and René Vidal. &quot;Large-Scale Subspace Clustering for Computer Vision.&quot; <i>Journal 1</i>. 1(1).'
 ---
-Brain connectomics is a developing field in neurosciences which strives to
-understand cognitive processes and psychiatric diseases through the analysis of
-interactions between brain regions. However, in the high-dimensional, low-sample,
-and noisy regimes that typically characterize fMRI data, the recovery of such
-interactions remains an ongoing challenge: how can we discover patterns of co-
-activity between brain regions that could then be associated to cognitive processes
-or psychiatric disorders? In this paper, we investigate a constrained Bayesian ICA
-approach which, in comparison to current methods, simultaneously allows (a) the flexible integration of multiple sources of information (fMRI, DTI, anatomical,
-etc.), (b) an automatic and parameter-free selection of the appropriate sparsity
-level and number of connected submodules and (c) the provision of estimates on
-the uncertainty of the recovered interactions. Our experiments, both on synthetic
-and real-life data, validate the 
-exibility of our method and highlight
+Given data that lies in a union of low-dimensional subspaces, the problem of subspace clustering aims to learn - in an unsupervised manner - the membership of the data to their respective subspaces. State-of-the-art subspace clustering methods typically adopt a two-step procedure, by (a) constructing an affinity measure among data points is constructed, and (b) applying spectral clustering to find the membership of the data to their respective subspaces. However, such methods difficulty scale up to large-scale datasets.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+In this work, we propose a divide-and-conquer framework for large-scale subspace clustering, allowing SSC techniques to scale up to datasets of more than 100,000 points. 
+We highlighted the performance of our approach on synthetic large-scale datasets with 1,000,000 data points, as well as on the MNIST database, which contains 70,000 images of handwritten digits.
 
-Recommended citation: Donnat Claire. (2019). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+Recommended citation: You, Donnat et al. (2016). "Large-Scale Subspace Clustering for Computer Vision." <i>Signals, Systems and Computers, 2016 50th Asilomar Conference on, pp. 1014-1018. IEEE, 2016</i>. 1(1).

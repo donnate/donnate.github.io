@@ -1,27 +1,19 @@
 ---
-title: "Constrained Bayesian ICA for Brain Connectomics"
+title: "Geomstats: a Python Package for Riemannian Geometry in Machine Learning"
 collection: publications
-permalink: 
-excerpt: 'Brain connectomics is a developing'
-date: 2019-11-07
+permalink: https://arxiv.org/abs/1805.08308
+excerpt: 'Given data that lies in a union of low-dimensional subspaces, the problem of subspace clustering aims to learn - in an unsupervised manner - the membership of the data to their respective subspaces. State-of-the-art subspace clustering methods typically adopt a two-step procedure, by (a) constructing an affinity measure among data points is constructed, and (b) applying spectral clustering to find the membership of the data to their respective subspaces. However, such methods difficulty scale up to large-scale datasets.
+ 
+
+We introduce geomstats, a Python package for Riemannian modelization and optimization over manifolds such as hyperspheres, hyperbolic spaces, SPD matrices or Lie groups of transformations. Our contribution is threefold. First, geomstats allows the flexible modeling of many a machine learning problem through an efficient and extensively unit-tested implementations of these manifolds, as well as the set of useful Riemannian metrics, exponential and logarithm maps that we provide. Moreover, the wide choice of loss functions and our implementation of the corresponding gradients allow fast and easy optimization over manifolds. Finally, geomstats is the only package to provide a unified framework for Riemannian geometry, as the operations implemented in geomstats are available with different computing backends (numpy,tensorflow and keras), as well as with a GPU-enabled mode–-thus considerably facilitating the application of Riemannian geometry in machine learning. In this paper, we present geomstats through a review of the utility and advantages of manifolds in machine learning, using the concrete examples that they span to show the efficiency and practicality of their implementation using our package.
+<p> <b>Geomstats: a Python Package for Riemannian Geometry in Machine Learning</b>, Nina Miolane, Johan Mathe, Claire Donnat, Mikael Jorda and Xavier Pennec. (Under review)
+date: 2018-11-06
 venue: 'Under submission'
-paperurl: 'http://donnat.github.io/files/paper1.pdf'
-citation: 'Donnat, Claire. (2019). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://donnate.github.io/files/main_geomstat.pdf'
+citation: 'Miolane, Nina et al. (2018). &quot;Geomstats: a Python Package for Riemannian Geometry in Machine Learning.&quot; <i>JarXiv</i>. 1(1).'
 ---
-Brain connectomics is a developing field in neurosciences which strives to
-understand cognitive processes and psychiatric diseases through the analysis of
-interactions between brain regions. However, in the high-dimensional, low-sample,
-and noisy regimes that typically characterize fMRI data, the recovery of such
-interactions remains an ongoing challenge: how can we discover patterns of co-
-activity between brain regions that could then be associated to cognitive processes
-or psychiatric disorders? In this paper, we investigate a constrained Bayesian ICA
-approach which, in comparison to current methods, simultaneously allows (a) the flexible integration of multiple sources of information (fMRI, DTI, anatomical,
-etc.), (b) an automatic and parameter-free selection of the appropriate sparsity
-level and number of connected submodules and (c) the provision of estimates on
-the uncertainty of the recovered interactions. Our experiments, both on synthetic
-and real-life data, validate the 
-exibility of our method and highlight
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Donnat Claire. (2019). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/abs/1805.08308
+
+Recommended citation: Miolane, Nina et al. (2018). "Geomstats: a Python Package for Riemannian Geometry in Machine Learning." <i>Journal 1</i>. 1(1).
