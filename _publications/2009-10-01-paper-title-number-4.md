@@ -11,10 +11,10 @@ respect to state-of-the art methods, highlighting the incredible potential of sp
 topology and shapes on graphs. </p>'
 date: 2018-08-19
 venue: 'The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19--23, 2018, London, United Kingdom'
-paperurl: 'http://donnate.github.io/files/graphewave.pdf'
+paperurl: http://donnate.github.io/files/graphewave.pdf
 citation: 'Donnat, Claire. (2018). &quot;Learning Structural Node Embeddings Via Diffusion Wavelets.&quot; <i>The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19--23, 2018, London, United Kingdom</i>.'
 ---
 
-[Download paper here](http://donnate.github.io/files/graphwave.pdf)
+[Download paper here](https://arxiv.org/pdf/1710.10321.pdf)
 
 Recommended citation: Donnat Claire et al (2018). "Learning Structural Node Embeddings Via Diffusion Wavelets." <i>The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19--23, 2018, London, United Kingdom</i>.
