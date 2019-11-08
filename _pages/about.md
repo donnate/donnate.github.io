@@ -12,4 +12,8 @@ redirect_from:
 
 A data-driven personal website
 ======
-UNDER MAINTENANCE
+
+I am a fifth-year PhD student in the Statistics department at Stanford University. 
+I am lucky to be supervised by Prof. Susan Holmes (in Statistics) and co-advised by Prof. Jure Leskovec (Computer Science). 
+
+Prior to Stanford, I studied Applied Mathematics and Engineering at Ecole Polytechnique (France), where I received a Bachelor and Masters of Science. 
