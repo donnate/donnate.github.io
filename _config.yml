@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Claire Donnat / Personal Website"
+title                    : "Claire Donnat"
 title_separator          : "-"
 name                     : &name "Claire Donnat"
 description              : &description "personal description"
