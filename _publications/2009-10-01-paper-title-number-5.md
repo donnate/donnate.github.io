@@ -10,10 +10,10 @@ We introduce geomstats, a Python package for Riemannian modelization and optimiz
 date: 2018-11-06
 venue: 'Under submission'
 paperurl: 'http://donnate.github.io/files/main_geomstat.pdf'
-citation: 'Miolane, Nina et al. (2018). &quot;Geomstats: a Python Package for Riemannian Geometry in Machine Learning.&quot; <i>JarXiv</i>. 1(1).'
+citation: 'Miolane, Nina et al. (2018). &quot;Geomstats: a Python Package for Riemannian Geometry in Machine Learning.&quot; <i>arXiv</i>. 1(1).'
 ---
 
 
 [Download paper here](https://arxiv.org/abs/1805.08308
 
-Recommended citation: Miolane, Nina et al. (2018). "Geomstats: a Python Package for Riemannian Geometry in Machine Learning." <i>Journal 1</i>. 1(1).
+Recommended citation: Miolane, Nina et al. (2018). "Geomstats: a Python Package for Riemannian Geometry in Machine Learning." <i>arXiv</i>. 1(1).
