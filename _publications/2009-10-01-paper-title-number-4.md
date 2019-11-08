@@ -1,27 +1,20 @@
 ---
-title: "Constrained Bayesian ICA for Brain Connectomics"
+title: "Learning Structural Node Embeddings Via Diffusion Wavelets"
 collection: publications
 permalink: 
-excerpt: 'Brain connectomics is a developing'
-date: 2019-11-07
-venue: 'Under submission'
-paperurl: 'http://donnat.github.io/files/paper1.pdf'
-citation: 'Donnat, Claire. (2019). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: '							 One of the stepping stones for <em> understanding and characterizing network structures </em>consists in the <b><em>representation and detection of
+structural similarities </em></b>– that is, nodes sharing similar ”roles” in the network while residing in different parts of the graphs. However, this is a challenging unsupervised learning task, which usually requires the enumeration and hand-tailoring of graph topological features deemed relevant for the task by the data analyst. </p>
+
+ <p> To circumvent this problem, we propose <b>GraphWave</b>, a method based on Spectral Heat Wavelet for detecting structural similarities. Similar to sonar detection, <b>GraphWave</b> probes the network by diffusing heat wavelets 
+and embeds each node's resulting heatprint in vector-valued structural signature. This has exhibited competitive results with
+respect to state-of-the art methods, highlighting the incredible potential of spectral wavelets as tools for characterizing
+topology and shapes on graphs. </p>'
+date: 2018-08-19
+venue: 'The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19--23, 2018, London, United Kingdom'
+paperurl: 'http://donnate.github.io/files/graphewave.pdf'
+citation: 'Donnat, Claire. (2018). &quot;Learning Structural Node Embeddings Via Diffusion Wavelets.&quot; <i>The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19--23, 2018, London, United Kingdom</i>. 1(1).'
 ---
-Brain connectomics is a developing field in neurosciences which strives to
-understand cognitive processes and psychiatric diseases through the analysis of
-interactions between brain regions. However, in the high-dimensional, low-sample,
-and noisy regimes that typically characterize fMRI data, the recovery of such
-interactions remains an ongoing challenge: how can we discover patterns of co-
-activity between brain regions that could then be associated to cognitive processes
-or psychiatric disorders? In this paper, we investigate a constrained Bayesian ICA
-approach which, in comparison to current methods, simultaneously allows (a) the flexible integration of multiple sources of information (fMRI, DTI, anatomical,
-etc.), (b) an automatic and parameter-free selection of the appropriate sparsity
-level and number of connected submodules and (c) the provision of estimates on
-the uncertainty of the recovered interactions. Our experiments, both on synthetic
-and real-life data, validate the 
-exibility of our method and highlight
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Donnat Claire. (2019). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Donnat Claire et al (2018). "Learning Structural Node Embeddings Via Diffusion Wavelets." <i>The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19--23, 2018, London, United Kingdom</i>. 1(1).
