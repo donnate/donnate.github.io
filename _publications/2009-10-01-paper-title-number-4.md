@@ -6,9 +6,6 @@ excerpt: 'One of the stepping stones for <em> understanding and characterizing n
 structural similarities </b>– that is, nodes sharing similar roles in the network while residing in different parts of the graphs. However, this is a challenging unsupervised learning task, which usually requires the enumeration and hand-tailoring of graph topological features deemed relevant for the task by the data analyst.
 
 To circumvent this problem, we propose <b>GraphWave</b>, a method based on Spectral Heat Wavelet for detecting structural similarities. Similar to sonar detection, <b>GraphWave</b> probes the network by diffusing heat wavelets and embeds each node's resulting heatprint in vector-valued structural signature. This has exhibited competitive results with respect to state-of-the art methods, highlighting the incredible potential of spectral wavelets as tools for characterizing topology and shapes on graphs.'
-date: 2018-08-19
-venue: 'The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19--23, 2018, London, United Kingdom'
-paperurl: https://arxiv.org/pdf/1710.10321.pdf
 citation: 'Donnat, Claire. (2018). &quot;Learning Structural Node Embeddings Via Diffusion Wavelets.&quot; <i>The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19--23, 2018, London, United Kingdom</i>.'
 ---
 Given data that lies in a union of low-dimensional subspaces, the problem of subspace clustering aims to learn - in an unsupervised manner - the membership of the data to their respective subspaces. State-of-the-art subspace clustering methods typically adopt a two-step procedure, by (a) constructing an affinity measure among data points is constructed, and (b) applying spectral clustering to find the membership of the data to their respective subspaces. However, such methods difficulty scale up to large-scale datasets.
