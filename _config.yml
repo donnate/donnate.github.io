@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=dOouAwUAAAAJ&hl=en&oi=ao"
   email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Claire_Donnat"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/claire-donnat-a4200272/"
+  orcid            : "https://orcid.org/0000-0001-7079-8060"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@ClaireDonnat"
   vine             :
   weibo            :
   xing             :
