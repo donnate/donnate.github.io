@@ -18,7 +18,7 @@ I am a fifth-year PhD student in the Statistics department at Stanford Universit
 <p><div style="text-align: justify"> 
 Prior to Stanford, I studied Applied Mathematics and Engineering at Ecole Polytechnique (France), where I received a Bachelor and Masters of Science. 
 </div></p>
-<br>
+
 
 Research Interests
 ======
