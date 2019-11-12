@@ -8,11 +8,9 @@ venue: 'Signals, Systems and Computers, 2016 50th Asilomar Conference on, pp. 10
 paperurl: http://ieeexplore.ieee.org/abstract/document/7869521/
 citation: 'Chong You, Claire Donnat, Daniel P. Robinson, and René Vidal. &quot;Large-Scale Subspace Clustering for Computer Vision.&quot;'
 ---
-
+<img src="http://donnate.github.io/images/Intersect_sbs_bis.jpg">
 
 <p><div style="text-align: justify"> 
-<span class="image left"><img src="http://donnate.github.io/images/Intersect_sbs_bis.jpg"></span> 
-
 Given data that lies in a union of low-dimensional subspaces, the problem of subspace clustering aims to learn - in an unsupervised manner - the membership of the data to their respective subspaces. State-of-the-art subspace clustering methods typically adopt a two-step procedure, by (a) constructing an affinity measure among data points is constructed, and (b) applying spectral clustering to find the membership of the data to their respective subspaces. However, such methods difficulty scale up to large-scale datasets. </div></p>
 
 <p><div style="text-align: justify"> 
