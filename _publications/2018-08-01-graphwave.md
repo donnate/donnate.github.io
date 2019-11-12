@@ -11,6 +11,7 @@ citation: 'Donnat, Claire. (2018). &quot;Learning Structural Node Embeddings Via
 
 <p><div style="text-align: justify"> 
 Nodes residing in different parts of a graph can have similar structural roles within their local network topology. The identification of such roles provides key insight into the organization of networks and can be used for a variety of machine learning tasks. However, learning structural representations of nodes is a challenging problem, and it has typically involved manually specifying and tailoring topological features for each node.
+</div></p>
 
 <img src="http://donnate.github.io/images/images_orig/barbell_graph_fig.jpg"/>
 
