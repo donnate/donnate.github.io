@@ -6,7 +6,7 @@ excerpt: 'We introduce geomstats, a Python package for Riemannian modelization a
 date: 2018-11-06
 venue: 'arXiv (Under review)'
 paperurl: 'https://arxiv.org/abs/1805.08308'
-citation: 'Miolane, Nina et al. (2018). &quot;Geomstats: a Python Package for Riemannian Geometry in Machine Learning.&quot; <i>arXiv</i>. 1(1).'
+citation: 'Miolane, Nina et al. (2018). &quot;Geomstats: a Python Package for Riemannian Geometry in Machine Learning.&quot; <i>arXiv</i>.'
 ---
 <p><div style="text-align: justify"> 
 We introduce geomstats, a Python package for Riemannian modelization and optimization over 
@@ -23,8 +23,9 @@ manifolds such as hyperspheres, hyperbolic spaces, SPD matrices or Lie groups of
 </div></p>
 
 
-![](images/Intersect_sbs_bis.jpg)
+
 [Download paper](https://arxiv.org/abs/1805.08308)
+
 [Download package](https://github.com/geomstats/geomstats)
 
 Recommended citation: Miolane, Nina et al. (2018). "Geomstats: a Python Package for Riemannian Geometry in Machine Learning." <i>arXiv</i>.
