@@ -23,7 +23,7 @@ Research Interests
 ======
 <div style="text-align: justify"> 
 My research interests lie in the <b> analysis of structure and patterns in high-dimensional datasets, and in particular, in the analysis of graphs. </b>
-</div>
+</div><br>
 
 
 <div style="text-align: justify"> 
@@ -36,7 +36,7 @@ where the analysis of the system at the "atomic" node-level is either intractabl
   
   
   <div style="text-align: justify"> 
-  I am especially interested in biomedical applications of this topic, and in particular, in brain connectomics, a developing field in neuroscience
+  I am especially interested in biomedical applications of this topic, and in particular, in brain connectomics – a developing field in neuroscience
   which strives to understand the functional and anatomical “wiring” of the brain and its association with cognitive processes
-and psychiatrical diseases. 
+and psychiatric diseases. 
 </div>
