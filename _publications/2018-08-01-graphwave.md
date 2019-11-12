@@ -18,7 +18,7 @@ Nodes residing in different parts of a graph can have similar structural roles w
 In this paper, we develop GraphWave, a method that represents each node's network neighborhood via a low-dimensional embedding by leveraging heat wavelet diffusion patterns. Instead of training on hand-selected features, GraphWave learns these embeddings in an unsupervised way. We mathematically prove that nodes with similar network neighborhoods will have similar GraphWave embeddings even though these nodes may reside in very different parts of the network, and our method scales linearly with the number of edges. Experiments in a variety of different settings demonstrate GraphWave's real-world potential for capturing structural roles in networks, and our approach outperforms existing state-of-the-art baselines in every experiment, by as much as 137%.
 </div></p>
 
-<img src="http://donnate.github.io/images/images_orig/barbell_graph_fig.jpg" alt="" width="150" height="150" />
+<img src="http://donnate.github.io/images/images_orig/barbell_graph_fig.jpg" />
 
 [Download paper](http://donnate.github.io/files/graphwave.pdf)
 
