@@ -22,6 +22,6 @@ manifolds such as hyperspheres, hyperbolic spaces, SPD matrices or Lie groups of
   In this paper, we present geomstats through a review of the utility and advantages of manifolds in machine learning, using the concrete examples that they span to show the efficiency and practicality of their implementation using our package.
 </div></p>
 
-[Download paper here](https://arxiv.org/abs/1805.08308)
+[Download paper here](https://arxiv.org/abs/1805.08308) [Download package](https://github.com/geomstats/geomstats)
 
 Recommended citation: Miolane, Nina et al. (2018). "Geomstats: a Python Package for Riemannian Geometry in Machine Learning." <i>arXiv</i>.
