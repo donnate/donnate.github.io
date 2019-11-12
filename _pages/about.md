@@ -11,7 +11,7 @@ redirect_from:
 
 
 <p><div style="text-align: justify"> 
-I am a fifth-year PhD student in the Statistics department at Stanford University, where I am lucky to be supervised by <a href="https://statweb.stanford.edu/~susan/susan_person.html">Prof. Susan Holmes</a>.
+I am a fifth-year PhD student in the Statistics department at Stanford University, where I am lucky to be supervised by Professor <a href="https://statweb.stanford.edu/~susan/susan_person.html">Susan Holmes</a>.
  </div></p>
 
 
