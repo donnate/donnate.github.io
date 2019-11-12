@@ -17,7 +17,7 @@ Given data that lies in a union of low-dimensional subspaces, the problem of sub
 In this work, we propose a divide-and-conquer framework for large-scale subspace clustering, allowing SSC techniques to scale up to datasets of more than 100,000 points. 
 We highlighted the performance of our approach on synthetic large-scale datasets with 1,000,000 data points, as well as on the MNIST database, which contains 70,000 images of handwritten digits.</div></p>
 
-<img src="images/Intersect_sbs_bis.jpg">
+<img src="http://donnate.github.io/images/Intersect_sbs_bis.jpg">
 
 
 Recommended citation: You, Donnat et al. (2016). "Large-Scale Subspace Clustering for Computer Vision." <i>Signals, Systems and Computers, 2016 50th Asilomar Conference on, pp. 1014-1018. IEEE, 2016</i>.
