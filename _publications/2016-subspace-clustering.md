@@ -6,7 +6,7 @@ excerpt: 'Subspace clustering is an unsupervised technique that models the data 
 date: 2016-11-07
 venue: 'Signals, Systems and Computers, 2016 50th Asilomar Conference on, pp. 1014-1018. IEEE, 2016'
 paperurl: http://ieeexplore.ieee.org/abstract/document/7869521/
-citation: ' Chong You, Claire Donnat, Daniel P. Robinson, and René Vidal. &quot;Large-Scale Subspace Clustering for Computer Vision.&quot; <i>Signals, Systems and Computers, 2016 50th Asilomar Conference on, pp. 1014-1018. IEEE, 2016</i>.'
+citation: 'Chong You, Claire Donnat, Daniel P. Robinson, and René Vidal. &quot;Large-Scale Subspace Clustering for Computer Vision.&quot;'
 ---
 <span class="image left"><img src="images/Intersect_sbs_bis.png"/></span> 
 <p><div style="text-align: justify"> 
