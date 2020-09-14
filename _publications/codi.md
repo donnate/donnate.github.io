@@ -16,6 +16,4 @@ Computer-Aided Diagnosis has shown stellar performance in providing accurate med
 
 [Download paper here](http://donnate.github.io/files/codi.pdf)
 
-
-
 Recommended citation: Donnat Claire, et al. (2020). "A Bayesian Hierarchical Network for Combining Heterogeneous Data Sources in Medical Diagnoses" <i>arXiv</i>.
