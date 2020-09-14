@@ -1,12 +1,11 @@
 ---
-title: "Geomstats: a Python Package for Riemannian Geometry in Machine Learning"
+title: "Introduction to Geometric Learning in Python with Geomstats"
 collection: publications
 permalink: /publication/2018-11-05-geomstats
 excerpt: 'We introduce geomstats, a Python package for Riemannian modelization and optimization over manifolds.  With operations implemented with different computing backends (numpy, tensorflow and keras), geomstats provides a unified framework for Riemannian geometry and facilitates its application in machine learning.'
 date: 2018-11-06
-venue: 'arXiv (Under review)'
+venue: 'Proceedings of the 19th Python in Science Conference'
 paperurl: 'https://arxiv.org/abs/1805.08308'
-citation: 'Miolane, Nina et al. (2018). &quot;Geomstats: a Python Package for Riemannian Geometry in Machine Learning.&quot; <i>arXiv</i>.'
 ---
 <img src="http://donnate.github.io/images/images_orig/geomstats.png"/>
 <p><div style="text-align: justify"> 
@@ -29,4 +28,4 @@ manifolds such as hyperspheres, hyperbolic spaces, SPD matrices or Lie groups of
 
 [Download package](https://github.com/geomstats/geomstats)
 
-Recommended citation: Miolane, Nina et al. (2018). "Geomstats: a Python Package for Riemannian Geometry in Machine Learning." <i>arXiv</i>.
+Recommended citation: Miolane, Nina et al. (2020). "Introduction to Geometric Learning in Python with Geomstats." <i>arXiv</i>.
