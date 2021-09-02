@@ -61,8 +61,8 @@ __<span style="color: grey;">  G-Research, *London, UK* </span>__\\
 Summer research internship as a Quantitative Research Analyst Intern at G-Research, Europe’s largest quantitative hedge fund, which leverages tools from statistics and machine learning to analyze financial datasets .
 
 <img src="{{ site.baseurl }}/images/hopkins.jpeg" alt="drawing" width="80" style="float: left; margin-right: 3em;"/>
-* __March 2015-August 2015: Visting Graduate Scholar __\\
-__<span style="color: grey;">  Vision Lab, Johns Hopkins University, *Baltimore, Maryland, USA* </span>__\\
+* __March 2015-August 2015: Visting Graduate Scholar__\\
+__<span style="color: grey;"> Vision Lab, Johns Hopkins University, *Baltimore, Maryland, USA* </span>__\\
 5-month research internship as a Visiting Scholar in the Vision Lab (as part of Ecole Polytechnique's requirements), supervised by Prof. René Vidal.
 Development of scalable algorithms for Sparse Subspace Clustering with applications to Computer Vision Research project was granted a Research Internship award from Ecole Polytechnique’s Department of Applied Mathematics (CMAP).
 
