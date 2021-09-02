@@ -11,7 +11,7 @@ redirect_from:
 
 <p><div style="text-align: justify"> 
 To start off, a little bit about me: I completed my PhD in Statistics in June 2020 in Stanford University, where I was lucky to be supervised by Professor <a href="https://statweb.stanford.edu/~susan/susan_person.html">Susan Holmes</a>.
-Prior to Stanford, I studied Applied Mathematics and Engineering at Ecole Polytechnique (France), where I received a Bachelor and Masters of Science. I was a visiting scholar in the Vision Lab at Johns Hopkins for 5 months in the summer 2015, supervised by Professor Rene Vidal. I was an AI Research fellow at Hudson River Trading in the summer 2019, and I was lucky to have the opportunity to intern at Facebook and G-Research during my PhD.
+Prior to Stanford, I studied Applied Mathematics and Engineering at Ecole Polytechnique (France), where I received a Bachelor and Masters of Science. I was a visiting scholar in the Vision Lab at Johns Hopkins for 5 months in the summer 2015, supervised by Professor Rene Vidal. I was an AI Research fellow at Hudson River Trading in the summer 2019, and I was lucky to have the opportunity to intern at Facebook  Core Data Science and G-Research during my PhD.
 </div></p>
 
 
@@ -28,6 +28,10 @@ We have openings on a rolling basis for postdocs, rotation PhD students (already
 * If you are a UChicago PhD student interested in joining the group, please send me an email including your interests, CV, and transcript. 
 
 For others not currently at the University, we apologize if we may not have the bandwidth to respond.
+</div></p>
+
+<p><div style="text-align: justify"> 
+__NEWS:  The group is looking for collaborations!__ If you are  a researcher and would like to seek a collaboration with our group (especially if your problem involves networks, or pairwise and/or higher order interactions between agents/ datapoints ), please reach out to me directly!
 </div></p>
 
 
@@ -48,7 +52,6 @@ My research interests lie in the <b> analysis of patterns and quantification of 
 From the methods perspective, the current research directions that I am currently investigating include:
 <ul>
 <li> <b>Graph Neural Networks. </b> As the direct extension of the deep neural network machinery to graph data, GNNs  have gained an important amount of traction in the community.  We focus on studying their 
-
 .</li>
 <li> <b>  Statistics for graphs and networks: </b> From brain connectomics to cybersecurity, graphs appear as an indispensable paradigm for studying complex relationships between entities in a number of applications 
 where the analysis of the system at the "atomic" node-level is either intractable or uninformative.
