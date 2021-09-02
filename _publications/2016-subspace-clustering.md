@@ -15,7 +15,7 @@ Given data that lies in a union of low-dimensional subspaces, the problem of sub
 
 
 <p align="center">
-<img src="http://donnate.github.io/images/Intersect_sbs_bis.jpg" alt="" width="200" height="200" />
+<img src="http://donnate.github.io/images/Intersect_sbs_bis.jpg" alt="" width="300" height="300" />
 </p>
 
 
