@@ -6,9 +6,9 @@ excerpt: 'We introduce GraphWave, a method for discovering structural similariti
 date: 2018-08-19
 venue: 'The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19-23, 2018, London, United Kingdom'
 paperurl: 
-citation: 'Donnat, Claire. (2018). &quot;Learning Structural Node Embeddings Via Diffusion Wavelets.&quot;'
 image: 'graphwave.png'
 ---
+* Joint work with David Hallac, Marinka Zitnik and Jure Leskovec.*
 
 <p align="center">
 <img src="http://donnate.github.io/images/graphwave.png" />
@@ -36,4 +36,4 @@ In this paper, we develop GraphWave, a method that represents each node's networ
 
 [Download Python code](https://github.com/donnate/graphwave)
 
-Recommended citation:  Donnat, Claire et al (2018). "Learning Structural Node Embeddings Via Diffusion Wavelets." <i>The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19--23, 2018, London, United Kingdom</i>
+Recommended citation: __ Donnat, Claire__, David Hallac, Marinka Zitnik and Jure Leskovec. "Learning Structural Node Embeddings Via Diffusion Wavelets." <i>The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19--23, 2018, London, United Kingdom</i>
