@@ -22,9 +22,12 @@ __As of August 2020, I am an Assistant Professor in the Department of Statistics
 <div style="background-color:rgba(0, 0, 0, 0.0470588);">
 <font size="-0.5">
 <b>NEWS:  The group is recruiting!</b> 
-We have openings on a rolling basis for postdocs, rotation PhD students (already accepted to UChicago), and a limited number of MS or advanced undergraduate students. Find out about <a href="https://donnate.github.io/projects/">our research </a> and   <a href="https://donnate.github.io/openings/">our research opportunities</a>. \\
-If you would like to be a  <i>postdoctoral fellow</i> in the group, please send me an email at cdonnat [at] uchicago.edu  including your interests and CV. 
-If you are a <i>UChicago PhD/Masters or Undergrad student</i> interested in joining the group, please send me an email including your interests, CV, and transcript. \\
+We have openings on a rolling basis for postdocs, rotation PhD students (already accepted to UChicago), and a limited number of MS or advanced undergraduate students. Find out about <a href="https://donnate.github.io/projects/">our research </a> and   <a href="https://donnate.github.io/openings/">our research opportunities</a>.
+
+If you would like to be a <b><i>postdoctoral fellow</i></b> in the group, please send me an email at cdonnat [at] uchicago.edu  including your interests and CV. 
+
+If you are a <b><i>UChicago PhD/Masters or Undergrad student</i></b> interested in joining the group, please send me an email including your interests, CV, and transcript. 
+
 For others not currently at the University, we apologize if we may not have the bandwidth to respond.
 </font>
 </div>
