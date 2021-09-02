@@ -6,7 +6,7 @@ excerpt: 'We introduce geomstats, a Python package for Riemannian modelization a
 date: 2018-11-06
 venue: 'Proceedings of the 19th Python in Science Conference'
 paperurl: 'https://arxiv.org/abs/1805.08308'
-image: 'geomstats.png
+image: 'geomstats.png'
 ---
 
 <p align="center">
