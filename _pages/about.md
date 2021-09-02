@@ -9,6 +9,12 @@ redirect_from:
 ---
 
 
+<p><div style="text-align: justify"> 
+To start off, a little bit about me: I completed my PhD in Statistics in June 2020 in Stanford University, where I was lucky to be supervised by Professor <a href="https://statweb.stanford.edu/~susan/susan_person.html">Susan Holmes</a>.
+Prior to Stanford, I studied Applied Mathematics and Engineering at Ecole Polytechnique (France), where I received a Bachelor and Masters of Science. I was a visiting scholar in the Vision Lab at Johns Hopkins for 5 months in the summer 2015, supervised by Professor Rene Vidal. I was an AI Research fellow at Hudson River Trading in the summer 2019, and I was lucky to have the opportunity to intern at Facebook and G-Research during my PhD.
+</div></p>
+
+
 
 <p><div style="text-align: justify"> 
 As of August 2020, I am an Assistant Professor in the Department of Statistics at the University of Chicago. 
@@ -52,12 +58,3 @@ where the analysis of the system at the "atomic" node-level is either intractabl
 </ul>
 </div></p>
   
-  
-
-
-
-<p><div style="text-align: justify"> 
-A little bit about me: I completed my PhD in Statistics in June 2020 in Stanford University, where I was lucky to be supervised by Professor <a href="https://statweb.stanford.edu/~susan/susan_person.html">Susan Holmes</a>.
-Prior to Stanford, I studied Applied Mathematics and Engineering at Ecole Polytechnique (France), where I received a Bachelor and Masters of Science. I was a visiting scholar in the Vision Lab at Johns Hopkins for 5 months in the summer 2015, supervised by Professor Rene Vidal. I was an AI Research fellow at Hudson River Trading in the summer 2019, and I was lucky to have the opportunity to intern at Facebook and G-Research during my PhD.
-</div></p>
-
