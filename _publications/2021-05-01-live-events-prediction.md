@@ -22,6 +22,5 @@ This paper attempts to bridge this gap by providing informative risk metrics for
 
 [Download paper here](https://www.medrxiv.org/content/10.1101/2021.05.13.21256857v1).
 
-
-
 Recommended citation:  __Donnat, Claire__, Freddy Bunbury, David Liu, Jack Kreindler, Filippos T. Filippidis, Austen El-Osta, Tõnu Esko, and Matthew Harris. "A Predictive Modelling Framework for COVID-19 Transmission to Inform the Management of Mass Events." <i> medRxiv (2021) --- Under Review</i>.
+
