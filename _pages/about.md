@@ -16,7 +16,12 @@ As of August 2020, I am an Assistant Professor in the Department of Statistics a
 
 
 <p><div style="text-align: justify"> 
-The lab is recruiting! Contact me directly at cdonnat [at] uchicago.edu for postdoctoral opportunities.   We are also open to graduate and undergraduate research opportunites.</b>
+__NEWS:  The group is recruiting!__ Find out about [our research](https://donnate.github.io/projects/) and [research opportunities](https://donnate.github.io/openings/). 
+We have openings on a rolling basis for postdocs, rotation PhD students (already accepted to UChicago), and a limited number of MS or advanced undergraduate students.
+* If you would like to be a postdoctoral fellow in the group, please send me an email at cdonnat [at] uchicago.edu  including your interests and CV. 
+* If you are a UChicago PhD student interested in joining the group, please send me an email including your interests, CV, and transcript. 
+
+For others not currently at the University, we apologize if we may not have the bandwidth to respond.
 </div></p>
 
 
