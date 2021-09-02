@@ -20,6 +20,7 @@ __As of August 2020, I am an Assistant Professor in the Department of Statistics
 
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); padding:40px 0;">
+<font size="-2">
 <b>NEWS:  The group is recruiting!</b> 
 We have openings on a rolling basis for postdocs, rotation PhD students (already accepted to UChicago), and a limited number of MS or advanced undergraduate students. Find out about <a href="https://donnate.github.io/projects/">our research </a> and   <a href="https://donnate.github.io/openings/">our research opportunities</a>. 
 <ul>
@@ -29,12 +30,15 @@ We have openings on a rolling basis for postdocs, rotation PhD students (already
 </ul>
 
 For others not currently at the University, we apologize if we may not have the bandwidth to respond.
+</font>
 </div>
 <br />
 
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); padding:40px 0;">
+<font size="-2">
 <b>NEWS:  The group is looking for collaborations!</b> If you are  a researcher and would like to seek a collaboration with our group (especially if your problem involves networks, or pairwise and/or higher order interactions between agents/ datapoints ), please reach out to me directly!
+</font>
 </div>
 
 
