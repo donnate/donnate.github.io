@@ -13,7 +13,7 @@ image: 'group-testing.png'
 Pooled testing offers an efficient solution to the unprecedented testing demands of the COVID-19 pandemic, although with potentially lower sensitivity and increased costs to implementation in some settings. Assessments of this trade-off typically assume pooled specimens are independent and identically distributed. Yet, in the context of COVID-19, these assumptions are often violated: testing done on networks (housemates, spouses, co-workers) captures correlated individuals, while infection risk varies substantially across time, place and individuals. Neglecting dependencies and heterogeneity may bias established optimality grids and induce a sub-optimal implementation of the procedure. As a lesson learned from this pandemic, this paper highlights the necessity of integrating field sampling information with statistical modeling to efficiently optimize pooled testing. 
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/group-testing1.png" alt="" width="200" height="200" />
+<img src="{{ site.baseurl }}/images/group-testing1.png" alt="" width="400" height="400" />
 </p>
 
 

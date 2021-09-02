@@ -12,12 +12,14 @@ image: 'events.png'
 
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/events.png" alt="" width="200" height="200" />
+<img src="{{ site.baseurl }}/images/events.png" alt="" width="400" height="400" />
 </p>
 
 Modelling COVID-19 transmission at live events and public gatherings is essential to evaluate and control the probability of subsequent outbreaks. Despite the fast-growing body of literature on COVID transmission dynamics, current risk models either neglect contextual information on vaccination rates or disease prevalence or do not attempt to quantitatively model transmission, thus limiting their potential to provide insightful estimates. 
 
 This paper attempts to bridge this gap by providing informative risk metrics for live public events, along with a measure of their associated uncertainty. Starting with a thorough review of the literature and building upon existing models, our approach ties together three main components: (a) reliable modelling of the number of infectious cases at the time of the event, (b) evaluation of the efficiency of pre-event screening and risk mitigation protocols, and (c) modelling the transmission dynamics during the event.
+
+
 [Download paper here](https://www.medrxiv.org/content/10.1101/2021.05.13.21256857v1).
 
 
