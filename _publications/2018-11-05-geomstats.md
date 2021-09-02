@@ -6,9 +6,15 @@ excerpt: 'We introduce geomstats, a Python package for Riemannian modelization a
 date: 2018-11-06
 venue: 'Proceedings of the 19th Python in Science Conference'
 paperurl: 'https://arxiv.org/abs/1805.08308'
+image: 'geomstats.png
 ---
+
+<p align="center">
 <img src="http://donnate.github.io/images/images_orig/geomstats.png"/>
 <p><div style="text-align: justify"> 
+</p>
+
+
 We introduce geomstats, a Python package for Riemannian modelization and optimization over 
 manifolds such as hyperspheres, hyperbolic spaces, SPD matrices or Lie groups of transformations.
  Our contribution is threefold. First, geomstats allows the flexible modeling of many a machine 
