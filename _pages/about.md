@@ -14,11 +14,11 @@ redirect_from:
 As of August 2020, I am an Assistant Professor in the Department of Statistics at the University of Chicago. 
 </div></p>
 
-<body style="background-color:grey;">
+
 <p><div style="text-align: justify"> 
 The lab is recruiting! Contact me directly at cdonnat [at] uchicago.edu for postdoctoral opportunities.   We are also open to graduate and undergraduate research opportunites.</b>
 </div></p>
-</body>
+
 
 
 
