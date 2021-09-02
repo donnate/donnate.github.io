@@ -9,30 +9,26 @@ redirect_from:
 ---
 
 
-<p><div style="text-align: justify"> 
-To start off, a little bit about me: I completed my PhD in Statistics in June 2020 in Stanford University, where I was lucky to be supervised by Professor <a href="https://statweb.stanford.edu/~susan/susan_person.html">Susan Holmes</a>.
-Prior to Stanford, I studied Applied Mathematics and Engineering at Ecole Polytechnique (France), where I received a Bachelor and Masters of Science. I was a visiting scholar in the Vision Lab at Johns Hopkins for 5 months in the summer 2015, supervised by Professor Rene Vidal. I was an AI Research fellow at Hudson River Trading in the summer 2019, and I was lucky to have the opportunity to intern at Facebook  Core Data Science and G-Research during my PhD.
-</div></p>
+
+__*To start off, a little bit about me:*__ I completed my PhD in Statistics in June 2020 in Stanford University, where I was lucky to be supervised by Professor <a href="https://statweb.stanford.edu/~susan/susan_person.html">Susan Holmes</a> and where I had the chance to work with <a href="https://cs.stanford.edu/people/jure/">Prof. Jure Leskovec</a> .
+Prior to Stanford, I studied Applied Mathematics and Engineering at Ecole Polytechnique (France), where I received a Bachelor and Masters of Science. I was a visiting scholar in the Vision Lab at Johns Hopkins for 5 months in the summer 2015, supervised by Professor René Vidal. I was an AI Research fellow at Hudson River Trading in the summer 2019, and I was lucky to have the opportunity to intern at Facebook Core Data Science and G-Research during my PhD.
+
+
+__As of August 2020, I am an Assistant Professor in the Department of Statistics at the University of Chicago.__
 
 
 
-<p><div style="text-align: justify"> 
-As of August 2020, I am an Assistant Professor in the Department of Statistics at the University of Chicago. 
-</div></p>
 
-
-<p><div style="text-align: justify"> 
 __NEWS:  The group is recruiting!__ Find out about [our research](https://donnate.github.io/projects/) and [research opportunities](https://donnate.github.io/openings/). 
 We have openings on a rolling basis for postdocs, rotation PhD students (already accepted to UChicago), and a limited number of MS or advanced undergraduate students.
 * If you would like to be a postdoctoral fellow in the group, please send me an email at cdonnat [at] uchicago.edu  including your interests and CV. 
 * If you are a UChicago PhD student interested in joining the group, please send me an email including your interests, CV, and transcript. 
 
 For others not currently at the University, we apologize if we may not have the bandwidth to respond.
-</div></p>
 
-<p><div style="text-align: justify"> 
+
+ 
 __NEWS:  The group is looking for collaborations!__ If you are  a researcher and would like to seek a collaboration with our group (especially if your problem involves networks, or pairwise and/or higher order interactions between agents/ datapoints ), please reach out to me directly!
-</div></p>
 
 
 
