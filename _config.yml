@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Claire Donnat"
+title                    : "Claire Donnat / Personal Website"
 title_separator          : "-"
 name                     : &name "Claire Donnat"
 description              : &description "personal description"
@@ -181,9 +181,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -230,7 +227,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
