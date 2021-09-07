@@ -64,16 +64,16 @@ Yet, this formalism deviates from its traditional Euclidean counterpart in two e
 
 
 
-In this context, from the methods perspective, the current research directions that my group is currently investigating include:
+In this context, <b>from the methods perspective</b>, the current research directions that my group is currently investigating include:
 <ul>
 <img src="{{ site.baseurl }}/images/gnn.png" alt="drawing" width="130" style="float: left; margin-right: 1.5em;"/>
-<li> <b> Graph Neural Networks. </b> As the direct extension of the deep neural network machinery to graph data, GNNs have recently gained an important amount of traction in the community.  Yet, despite GNNs’ success on reference datasets in the academic community, both their properties and limitations remain ill-understood. Motivated by the necessity to shift GNNs from a “black-box” model to an actionable ML method that can be explained, trusted and relied upon in practical settings, we currently focus on the analysis, improvement of GNNs and graph algorithms at large, as well as their practical application. <br> <a href="https://donnate.github.io/projects/#gnns"> Find out more about our GNN research. </a></li>
+<li> <b> 1 - Graph Neural Networks. </b> As the direct extension of the deep neural network machinery to graph data, GNNs have recently gained an important amount of traction.  Yet, despite GNNs’ success on reference datasets in the academic community, both their properties and limitations remain ill-understood. Motivated by the necessity to shift GNNs from a “black-box” model to an actionable ML method that can be explained, trusted and relied upon in practical settings, we currently focus on the analysis, improvement of GNNs and graph algorithms at large, as well as their practical application. <br> <a href="https://donnate.github.io/projects/#gnns"> Find out more about our GNN research. </a></li>
 <img src="{{ site.baseurl }}/images/bica2.png" alt="drawing" width="130" style="float: left; margin-right: 1.5em;"/>
-<li><b> Network Inference: </b> Another (related) direction of research that I have began investigating consists in assessing the impact of heterogeneity in models: how do models behave if we account for the lack of exchangeability between agents and allow for some heterogeneity? One practical application of this project consists in evaluating COVID-19 models.</li>
+<li><b> 2- Network Inference: </b> While networks offer an attractive formalism to study relational data, in many applications, the raw data has to be substantially processed to infer the graph structure before any network analysis can be achieved. In this setting, network inference is thus a crucial and indispensable component of the "graph analysis" pipeline, and on the quality of which depends any downstream analysis. As a result, we are interested in developping algorithms ablet to infer interactions and associations betweem agents in a network, as well as defining confidence levels around the inferred network structure. <br> <a href="https://donnate.github.io/projects/#network_inference"> Find out more about our Network Inference research. </a></li>
 <img src="{{ site.baseurl }}/images/bayes_covid.png" alt="drawing" width="130" style="float: left; margin-right: 1.5em;"/>
-<li><b> Latent Variable Models and Variational Inference: </b> I am also extremely interested in Bayesian and Probabilistic Graphical models (PGMs). More specifically, I am interested in topics ranging from PGM inference  and variational inference. </li>
+<li><b> 3- Latent Variable Models and Variational Inference: </b> Finally, I am also extremely interested in Bayesian and Probabilistic Graphical models (PGMs). More specifically, I am interested in topics ranging from PGM inference  and variational inference. </li>
 </ul>
 
-From the applications perspective, I am extremely interested in the potential of graphs and probabilistic models to biomedical problems. 
+<b>From the applications perspective, I am extremely interested in the potential of graphs and probabilistic models to biomedical problems. </b> I have  in the past and am currently continuing on working on biomedical, neuroscience as well as COVID-19 related applications.
 </p>
   
