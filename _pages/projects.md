@@ -29,7 +29,7 @@ Yet, despite GNNs’ success on reference datasets in the academic community, bo
 </p>
 
 <p align="justify">
-Motivated by the necessity to shift GNNs from a “black-box” model to an actionable ML method that can be explained, trusted and relied upon in practical settings, our group focuses on the analysis, improvement and applications of GNNs and graph algorithms at large, and more specifically, on the topics of:
+Motivated by the necessity to shift GNNs from a “black-box” model to an actionable ML method that can be explained, trusted and relied upon in practical settings, we  focus on the analysis, improvement and applications of GNNs and graph algorithms at large, and more specifically on the topics of:
 </p>
 </div>
 

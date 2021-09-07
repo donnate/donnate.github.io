@@ -64,7 +64,7 @@ Yet, this formalism deviates from its traditional Euclidean counterpart in two e
 
 
 
-In this context, <b>from the methods perspective</b>, the current research directions that my group is currently investigating include:
+In this context, <b>from the methods perspective</b>, the s research directions that I am currently investigating include:
 <ul>
 <img src="{{ site.baseurl }}/images/gnn.png" alt="drawing" width="130" style="float: left; margin-right: 1.5em;"/>
 <li> <b> 1 - Graph Neural Networks. </b> As the direct extension of the deep neural network machinery to graph data, GNNs have recently gained an important amount of traction.  Yet, despite GNNs’ success on reference datasets in the academic community, both their properties and limitations remain ill-understood. Motivated by the necessity to shift GNNs from a “black-box” model to an actionable ML method that can be explained, trusted and relied upon in practical settings, we currently focus on the analysis, improvement of GNNs and graph algorithms at large, as well as their practical application. <br> <a href="https://donnate.github.io/projects/#gnns"> Find out more about our GNN research. </a></li>
