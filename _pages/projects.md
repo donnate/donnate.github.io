@@ -7,6 +7,7 @@ author_profile: true
 
 
 
+<div id="gnns" name="gnns">  
 <h1> Principled Inference, Statistics and Graph Neural Networks </h1>
 
 <p align="justify">
@@ -37,7 +38,7 @@ __References__
 + Thomas N Kipf and Max Welling.   Semi-supervised classification with graph convolutional net-works.arXiv preprint arXiv:1609.02907, 2016.
 + Peter W Battaglia, Jessica B Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinicius Zambaldi,Mateusz  Malinowski,  Andrea  Tacchetti,  David  Raposo,  Adam  Santoro,  Ryan  Faulkner,  et  al.Relational inductive biases, deep learning, and graph networks.arXiv preprint arXiv:1806.01261, 2018
 + Michelle M Li, Kexin Huang, and Marinka Zitnik. Representation learning for networks in biologyand medicine:  Advancements, challenges, and opportunities.arXiv preprint arXiv:2104.04883,2021.
-
+</div>
 
 <h2> Defining graphs </h2>
 
