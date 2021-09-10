@@ -63,3 +63,35 @@ With the COVID-19 pandemic, I have participated in a few COVID related projects,
 + Looking at the effect of heterogeneity in the R0 on COVID-19 predictive scenarios.  <a href="https://donnate.github.io/publication/2020-09-10-r0">Link.</a>
 + Enriching LFA antigen (and antibody) testing with questionnaire data.  <a href="https://donnate.github.io/publication/2020-06-01-bayesian-covid1">Link.</a>
 + Using questionnaire and local data to assess the transmission risk in live events.   <a href="https://donnate.github.io/publication/2021-05-01">Link.</a>
+
+
+<h3> CryoEM
+</h3>
+
+
+Cryo-electron microscopy (cryo-EM) has revolutionized the
+field of structural biology by imaging biomolecules in solution. Yet, the vast majority of proteins cannot yet be reconstructred at a satisfying resolution. Such is the case of __membrane proteins__, a prominent target for over 50% of prescription drugs, including drugs targeting the treatment of neurological disorders and cancers. In this context, the limitation of cryo-EM imaging restricts our understanding of the proteins’ 3D conformations, and consequently, our knowledge of the
+associated therapeutic mechanisms.
+
+<p style="color:grey;font-size:11px;" align="center">
+<img src="http://donnate.github.io/images/cryo.png" />
+<i>(A) Overall model of the metabotropic GABA-B receptor, a membrane protein that is the target
+for the treatment of muscle spasms, and alcohol addiction. (B) Principal Component Analysis of raw data,
+displays poor resolution of the reconstructed shapes between the active and inactive states of the protein
+(Image courtesy of Prof. Gati). (C) Explosion of cryo-EM data at SLAC National Laboratory (Image
+courtesy of Dr. Yee-Ting Li). (D) Representative cryo-EM “micrograph” images GABA-B membrane
+proteins, shown circled in green.
+</i></p>
+
+As part of a collaboration with Prof. Nina Miolane at UC Santa Barbara, Prof. Cornelius Gati at USC, Dr. Frederic Poitevin at SLAC, and Khanh Dao Duc  at UCB, we are working the development a novel mathematical and statistical method that enhances the
+resolution of cryo-EM reconstructions, particularly targeting membrane proteins.  More specifically, we aim to enrich methods for unsupervised deep
+learning, such as (variational) autoencoders and/or generative adversarial networks, with constraints on the geometry of shape spaces. The objective of this approach is to allow accurate and robust disentanglement of shape, motion and imaging parameters.
+
+
+<p style="color:grey;font-size:11px;" align="center">
+<img src="http://donnate.github.io/images/cryo2.png" />
+<i>The input cryoEM image y is encoded into a pose
+phi by the encoder. The decoder outputs the tomographic projection of the biomolecular structure oriented
+at phi, and then corrupted by the microscope’s contrast transfer function (CTF).
+</i></p>
+
