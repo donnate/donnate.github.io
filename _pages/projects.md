@@ -57,7 +57,9 @@ While networks offer an attractive formalism to study relational data, in many a
 
 <h3> COVID-19
 </h3>
+
 With the COVID-19 pandemic, I have participated in a few COVID related projects, including:
+<img src="{{ site.baseurl }}/images/covid.jpeg" alt="drawing" width="300" height="300"  style="float: left; margin-right: 3em;"/>
 </div>
 + Studying the effect of correlations and deviations from the "iid" hypotheses on the optimality of Group testing.   <a href="https://donnate.github.io/publication/2021-07-01">Link.</a>
 + Looking at the effect of heterogeneity in the R0 on COVID-19 predictive scenarios.  <a href="https://donnate.github.io/publication/2020-09-10-r0">Link.</a>
@@ -65,13 +67,14 @@ With the COVID-19 pandemic, I have participated in a few COVID related projects,
 + Using questionnaire and local data to assess the transmission risk in live events.   <a href="https://donnate.github.io/publication/2021-05-01">Link.</a>
 
 
-<h3> CryoEM
+<h3> CryoEM Image reconstruction
 </h3>
 
-
+<p align="justify"> 
 Cryo-electron microscopy (cryo-EM) has revolutionized the
-field of structural biology by imaging biomolecules in solution. Yet, the vast majority of proteins cannot yet be reconstructred at a satisfying resolution. Such is the case of __membrane proteins__, a prominent target for over 50% of prescription drugs, including drugs targeting the treatment of neurological disorders and cancers. In this context, the limitation of cryo-EM imaging restricts our understanding of the proteins’ 3D conformations, and consequently, our knowledge of the
+field of structural biology by imaging biomolecules in solution. Yet, the vast majority of proteins cannot yet be reconstructred at a satisfying resolution. Such is the case of <b>membrane proteins</b>, a prominent target for over 50% of prescription drugs, including drugs targeting the treatment of neurological disorders and cancers. In this context, the limitation of cryo-EM imaging restricts our understanding of the proteins’ 3D conformations, and consequently, our knowledge of the
 associated therapeutic mechanisms.
+</p> 
 
 <p style="color:grey;font-size:11px;" align="center">
 <img src="http://donnate.github.io/images/cryo.png" />
@@ -83,10 +86,12 @@ courtesy of Dr. Yee-Ting Li). (D) Representative cryo-EM “micrograph” images
 proteins, shown circled in green.
 </i></p>
 
-As part of a collaboration with Prof. Nina Miolane at UC Santa Barbara, Prof. Cornelius Gati at USC, Dr. Frederic Poitevin at SLAC, and Khanh Dao Duc  at UCB, we are working the development a novel mathematical and statistical method that enhances the
+<p align="justify"> 
+As part of a collaboration led by Prof. Nina Miolane (UC Santa Barbara) and Prof. Cornelius Gati (USC), and together with Dr. Frederic Poitevin (SLAC) and Prof. Khanh Dao Duc  (UCB), we are working the development novel mathematical and statistical tools that enhances the
 resolution of cryo-EM reconstructions, particularly targeting membrane proteins.  More specifically, we aim to enrich methods for unsupervised deep
-learning, such as (variational) autoencoders and/or generative adversarial networks, with constraints on the geometry of shape spaces. The objective of this approach is to allow accurate and robust disentanglement of shape, motion and imaging parameters.
-
+learning, such as (variational) autoencoders and/or generative adversarial networks, with constraints on the geometry of shape spaces. 
+The objective of this approach is to allow accurate and robust disentanglement of shape, motion and imaging parameters.
+</p> 
 
 <p style="color:grey;font-size:11px;" align="center">
 <img src="http://donnate.github.io/images/cryo2.png" />
