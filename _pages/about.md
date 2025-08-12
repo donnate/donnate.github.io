@@ -84,7 +84,7 @@ requiring statistical and machine learning methods that adapt to structural hete
 
   <!-- Structured Estimation -->
   <div style="display:flex; align-items:flex-start;">
-    <img src="{{ site.baseurl }}/images/structured_estimation.png" alt="Structured Estimation" width="140" style="margin-right:1em;"/>
+    <img src="{{ site.baseurl }}/images/fmri.jpeg" alt="Structured Estimation" width="140" style="margin-right:1em;"/>
     <div>
       <b>2 — Structured Estimation and Graph-Constrained Models</b><br>
       Designing algorithms for dimension reduction and matrix factorization that incorporate known network structure or sparsity, 
