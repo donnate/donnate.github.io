@@ -11,7 +11,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 ## Publications
 
-<div class="pub-list">
 
 ### 2025
 - Sowon Jeong, **C Donnat**.  
@@ -124,5 +123,5 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   *Asilomar Conference, 2016.*  
   &raquo; Scalable approach for subspace clustering.
 
-</div>
+
 
