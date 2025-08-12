@@ -85,8 +85,13 @@ A major emphasis is on <b>uncertainty quantification</b>: providing confidence b
 <li>Integrating testing data with surveys to assess transmission risk in live events.</li>
 </ul>
 
-<h3> CryoEM Image Reconstruction </h3>
+<h3> Neuroscience </h3>
 <p align="justify">
-In collaboration with structural biologists, we developed deep generative modeling techniques for cryo-electron microscopy (cryo-EM) data, with geometric constraints to improve resolution for challenging targets such as membrane proteins. These methods disentangle shape, motion, and imaging effects to improve 3D reconstruction fidelity.
+I have worked on multiple projects in brain connectomics and neuroimaging, focusing on the development of statistical tools for the analysis of functional MRI and other multimodal brain data. This includes methods for:
 </p>
+<ul>
+<li><b>Connectome inference:</b> Developing Bayesian and variational models to infer brain connectivity from noisy, high-dimensional fMRI data.</li>
+<li><b>Network dynamics:</b> Quantifying structural and functional changes in brain networks over time, using graph signal processing and hierarchical clustering methods.</li>
+<li><b>Variability studies:</b> Participating in large-scale reproducibility analyses, including the <i>Nature</i> study on variability in neuroimaging analyses across teams.</li>
+</ul>
 </div>
