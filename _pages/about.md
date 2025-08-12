@@ -10,38 +10,38 @@ redirect_from:
 
 
 <p align="justify">
-<b><i>To start off, a little bit about me:</i></b> I completed my PhD in Statistics in June 2020 at Stanford University, where I was lucky to be supervised by Professor <a href="https://statweb.stanford.edu/~susan/susan_person.html">Susan Holmes</a> and where I had the chance to work with <a href="https://cs.stanford.edu/people/jure/">Prof. Jure Leskovec</a>.
-Prior to Stanford, I studied Applied Mathematics and Engineering at Ecole Polytechnique (France), where I received  an M.S and B.S equivalent.
+<b><i>
+I am an Assistant Professor of Statistics at the University of Chicago. My research develops statistical methods for high-dimensional and multimodal data integration, with applications in biology, environmental science, and public health. I work on network-based inference, structured estimation, and graph-constrained models, with recent projects including uncertainty quantification for sparse canonical correlation analysis, denoising on graphs, and statistical foundations for graph neural networks.
+  
 </p>
 
-__As of August 2020, I am an Assistant Professor in the Department of Statistics at the University of Chicago.__
 
 
 
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588);">
-<font size="-0.5">
-<b>NEWS:  The group is recruiting!</b> 
-We have openings on a rolling basis for postdocs, rotation PhD students (already accepted to UChicago), and a limited number of MS or advanced undergraduate students. Find out about <a href="https://donnate.github.io/projects/">our research </a> and   <a href="https://donnate.github.io/openings/">our research opportunities</a>.<br>
 
-• If you would like to be a <b><i>postdoctoral fellow</i></b> in the group, please send me an email at cdonnat [at] uchicago.edu  including your interests and CV. <br>
+<!-- Recruitment Notice -->
+<div style="background-color:#f5f5f5; padding:12px 16px; border-radius:6px; font-size:0.9em; line-height:1.5;">
+  <strong style="color:#b30000;">📢 NEWS: The group is recruiting!</strong><br>
+  We welcome applications on a rolling basis for postdocs, rotation PhD students (already accepted to UChicago), and a limited number of MS or advanced undergraduate students. Learn more about 
+  <a href="https://donnate.github.io/projects/">our research</a> and 
+  <a href="https://donnate.github.io/openings/">available opportunities</a>.<br><br>
 
-• If you are a <b><i>UChicago PhD/Masters or Undergrad student</i></b> interested in joining the group, please send me an email including your interests, CV, and transcript. <br>
-
-• For others not currently at the University, we apologize if we may not have the bandwidth to respond.
-</font>
-</div>
-<br />
-
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588);">
-<font size="-0.5">
-<b>NEWS:  The group is looking for applied collaborations!</b> If you are  a researcher and would like to seek a collaboration with our group (especially if your problem involves networks, or pairwise and/or higher order interactions between agents/ datapoints ), please reach out to me directly!
-</font>
+  <ul style="margin-top:0; margin-bottom:0;">
+    <li><strong><em>Postdoctoral fellows</em></strong>: Email cdonnat [at] uchicago.edu with your interests and CV.</li>
+    <li><strong><em>UChicago PhD/Masters/Undergrad students</em></strong>: Email your interests, CV, and transcript.</li>
+    <li><em>Note:</em> For those outside UChicago, we may not have the bandwidth to respond.</li>
+  </ul>
 </div>
 
-<br />
-<br />
+<br>
+
+
+<!-- Consulting Notice -->
+<div style="background-color:#f5f5f5; padding:12px 16px; border-radius:6px; font-size:0.9em; line-height:1.5;">
+  <strong style="color:#006699;">💼 NEWS: Consulting Availability</strong><br>
+  I am available for research consulting in areas including statistical methodology, high-dimensional data analysis, network-based inference, and data integration for the life sciences. For inquiries, please contact me at cdonnat [at] uchicago.edu.
+</div>
 
 
 
