@@ -38,11 +38,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   *Canonical Correlation Analysis as Reduced Rank Regression for High-Dimensional Data.*  
   &raquo; Shows the equivalence between CCA and reduced rank regression for high-dimensional settings. (Under review at JMLR)
 
-  - Juntong Chen, Johannes Schmidt-Hieber, **C Donnat**, Olga Klopp.  
+- Juntong Chen, Johannes Schmidt-Hieber, **C Donnat**, Olga Klopp.  
   *Understanding the Effect of GCN Convolutions in Regression Tasks.*  
   *AISTATS 2024.*  
   &raquo; Theoretical and empirical analysis of convolutional layers in GCN regression.- Yating Liu, **C Donnat**.  
-  *Tensor Topic Modeling via HOSVD.*  
+
+- Yating Liu, **C Donnat**.
+- *Tensor Topic Modeling via HOSVD.*  
   &raquo; Tensor-based topic modeling method using higher-order SVD. (Under review at JMLR)
 
 - Yeo Jin Jung, **C Donnat**.  
