@@ -1,97 +1,32 @@
 ---
+layout: personal
 permalink: /projects/
-title: "Research Projects"
-excerpt: "Research Projects"
-author_profile: true
+title: "Research"
+intro: "Statistical methods for data whose structure matters: networks, spatial relationships, and multiple measurements of the same system."
 ---
-
-<div id="gnns" name="gnns">  
-<h2> Principled Inference, Statistics, and Graph Neural Networks </h2>
-
-<p align="justify">
-<b>Graph Neural Networks</b> (GNNs) extend deep learning to graph-structured data and have become a core tool for learning on relational structures. Despite their rapid adoption, the statistical properties and limitations of GNNs remain poorly understood, especially in scientific domains where reproducibility, interpretability, and robustness are critical. 
-</p>
-
-<p style="color:grey;font-size:11px;" align="center">
-<img src="{{ site.baseurl }}/images/debunking_gnns (1).png" />
-<i>Illustration of a Graph Neural Network block: aggregation (convolution) and transformation steps, repeated to propagate information through the graph.</i>
-</p>
-
-<p align="justify">
-Our work aims to develop a principled foundation for GNNs — moving from heuristic architectures to models with performance guarantees, clear interpretability, and reliable uncertainty quantification. This involves:
-</p>
-
-<ul>
-<li><b>Uncertainty Quantification:</b> Designing methods to measure the robustness and confidence of GNN predictions, especially under noise or limited labels.</li>
-<li><b>Theoretical Analysis:</b> Studying bias–variance tradeoffs, oversmoothing, and topology-dependent performance.</li>
-<li><b>Model Selection:</b> Developing statistically sound cross-validation and tuning procedures tailored for graph-structured data.</li>
-<li><b>Interpretability:</b> Creating tools to link model outputs to causal or biologically meaningful structures.</li>
-</ul>
-</div>
-
----
-
-<div id="structured_estimation" name="structured_estimation">  
-<h2> Structured Estimation and Graph-Constrained Models </h2>
-
-<p align="justify">
-Many high-dimensional estimation problems involve latent structure — such as sparsity, grouping, or alignment with a known network — that can be leveraged for more accurate and interpretable inference. We design algorithms for <b>structured dimension reduction</b> and <b>graph-constrained matrix factorization</b>, with provable error bounds and direct applications to biological datasets.
-</p>
-
-<p align="justify">
-Our methods exploit graph topology or external meta-information to improve estimation of canonical directions, low-rank structure, or latent factors, with a focus on making results reproducible and trustworthy.
-</p>
-</div>
-
----
-
-<div id="multimodal" name="multimodal">  
-<h2> Multimodal Data Integration and Uncertainty Quantification </h2>
-
-<p align="justify">
-Biological and environmental datasets increasingly combine diverse data modalities — genomics, transcriptomics, metabolomics, imaging, and environmental covariates — linked through shared samples or spatial context. We develop statistical frameworks such as sparse canonical correlation analysis (CCA), regularized multivariate regression, and probabilistic graphical models to integrate these heterogeneous datasets.
-</p>
-
-<p align="justify">
-A major emphasis is on <b>uncertainty quantification</b>: providing confidence bounds for estimated relationships so downstream conclusions are statistically sound. This is particularly important in applications where experimental validation is costly or time-consuming.
-</p>
-</div>
-
----
-
-<div id="applications" name="applications">  
-<h2> Applications </h2>
-
-<ul>
-<li><b>Thermotolerance in photosynthetic microbes:</b> Integrating genomic, transcriptomic, and metabolomic data from cyanobacteria and <i>Chlamydomonas</i> to predict optimal growth temperatures and identify molecular mechanisms of heat adaptation.</li>
-
-<li><b>Family networks and child welfare:</b> Modeling kinship structures as complex networks to study how family configurations influence outcomes in protective custody and child services.</li>
-
-<li><b>Spatial transcriptomics:</b> Applying GNNs and structured estimation to detect spatial patterns in gene expression, uncover cell–cell interactions, and map tissue organization.</li>
-
-<li><b>Microbial community modeling:</b> Using graph-based latent variable models to study associations in marine and host-associated microbiomes, accounting for spatial and environmental structure.</li>
-</ul>
-</div>
-
----
-
-<div id="past_projects" name="past_projects">  
-<h2> Selected Past Projects </h2>
-
-<h3> COVID-19 Modeling </h3>
-<ul>
-<li>Statistical modeling for pooled testing strategies under correlation and heterogeneity.</li>
-<li>Modeling the effect of variability in reproduction number on epidemic forecasts.</li>
-<li>Integrating testing data with surveys to assess transmission risk in live events.</li>
-</ul>
-
-<h3> Neuroscience </h3>
-<p align="justify">
-I have worked on multiple projects in brain connectomics and neuroimaging, focusing on the development of statistical tools for the analysis of functional MRI and other multimodal brain data. This includes methods for:
-</p>
-<ul>
-<li><b>Connectome inference:</b> Developing Bayesian and variational models to infer brain connectivity from noisy, high-dimensional fMRI data.</li>
-<li><b>Network dynamics:</b> Quantifying structural and functional changes in brain networks over time, using graph signal processing and hierarchical clustering methods.</li>
-<li><b>Variability studies:</b> Participating in large-scale reproducibility analyses, including the <i>Nature</i> study on variability in neuroimaging analyses across teams.</li>
-</ul>
-</div>
+<section class="research-detail" id="structured_estimation">
+  <span class="research-number" aria-hidden="true">01</span>
+  <div><h2>Statistics for structured data</h2><p>High-dimensional datasets often have structure we can use: variables may form a network, observations may share spatial context, or a small set of latent factors may explain much of the variation. I develop methods that incorporate this information into estimation and dimension reduction.</p><p>My work includes sparse and graph-constrained canonical correlation analysis, topic models, matrix and tensor factorization, and denoising over networks. The aim is to obtain interpretable estimates with statistical guarantees.</p><p class="paper-links">Recent work: <a href="https://jmlr.org/papers/v27/25-0196.html">CCA as reduced rank regression</a> · <a href="https://arxiv.org/abs/2501.00535">Tensor topic modeling</a> · <a href="https://jmlr.org/papers/v27/23-1344.html">Sparse topic modeling</a></p></div>
+</section>
+<section class="research-detail" id="gnns">
+  <span class="research-number" aria-hidden="true">02</span>
+  <div><h2>Understanding learning on graphs</h2><p>Graph neural networks learn from relationships between observations. I study their statistical properties: how graph convolutions transform a signal, how network structure affects prediction, and how to select and evaluate a model when observations are dependent.</p><p>This research brings together theoretical analysis, graph signal processing, and methods for uncertainty quantification. Current directions include model selection for unsupervised graph representations, semi-supervised learning, and graph transformers.</p><p class="paper-links">Recent work: <a href="https://proceedings.mlr.press/v258/chen25j.html">GCN convolutions in regression</a> · <a href="{{ '/publications/#preprints' | relative_url }}">Current preprints</a></p><p class="funding-note">Supported in part by my NSF CAREER project, <em>Towards Responsible Graph Neural Networks</em> (2023–2028).</p></div>
+</section>
+<section class="research-detail" id="multimodal">
+  <span class="research-number" aria-hidden="true">03</span>
+  <div><h2>Data integration &amp; uncertainty</h2><p>Biological datasets often combine measurements from genomics, transcriptomics, metabolomics, imaging, and environmental conditions. I develop statistical methods to connect these views and identify relationships that would be difficult to see in any one dataset.</p><p>Uncertainty quantification is central to this work. Alongside sparse CCA and multivariate regression, recent projects develop conditional conformal prediction methods to assess the uncertainty of model predictions.</p><p class="paper-links">Recent work: <a href="https://arxiv.org/abs/2509.24100">SpeedCP</a> · <a href="https://arxiv.org/abs/2507.11160">Efficient sparse CCA</a></p></div>
+</section>
+<section class="research-detail" id="applications">
+  <span class="research-number" aria-hidden="true">04</span>
+  <div><h2>Biological &amp; scientific applications</h2><div class="application-grid">
+    <div><h3>Spatial transcriptomics</h3><p>Modeling spatial gene expression, tissue organization, and cell-state transitions using structured statistical methods.</p></div>
+    <div><h3>Plant &amp; microbial systems</h3><p>Integrating molecular and environmental data to study thermotolerance, microbial interactions, and host–microbiome responses to stress.</p></div>
+    <div><h3>Microbial communities</h3><p>Using network models and latent structure to understand community organization and connect genetic variation to microbial traits.</p></div>
+    <div><h3>Networks in public health</h3><p>Studying partially observed epidemics and heterogeneous transmission.</p></div>
+  </div></div>
+</section>
+<section class="research-detail" id="past_projects">
+  <span class="research-number" aria-hidden="true">05</span>
+  <div><h2>Earlier work</h2><p>My earlier research includes brain connectomics and the analysis of functional MRI, network dynamics, cryo-electron microscopy, and statistical modeling for COVID-19. Across these projects, a common question is how to extract reliable information from complex, noisy data.</p><p><a href="{{ '/publications/' | relative_url }}">Browse the full publication list</a></p></div>
+</section>
+<section class="lab-panel" style="margin-top:40px" aria-labelledby="research-lab"><div><p class="eyebrow">Research in practice</p><h2 id="research-lab">Inside the SIGNAL Lab</h2><p>Find our current projects, team, and open-source software on the lab website.</p></div><a class="button" href="https://signal-lab-uchicago.github.io/">Visit the lab ↗</a></section>

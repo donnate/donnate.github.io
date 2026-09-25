@@ -1,16 +1,14 @@
-# main links links
 main:
-  - title: "Research Projects"
+  - title: "Research"
     url: /projects/
-    
   - title: "Publications"
     url: /publications/
-
+  - title: "Teaching"
+    url: /teaching/
   - title: "Talks"
-    url: /talks/          
-    
-  - title: "CV"
+    url: /talks/
+  - title: "Background"
     url: /cv/
-    
-  - title: "Research Opportunities"
-    url: /openings/
+  - title: "SIGNAL Lab"
+    url: https://signal-lab-uchicago.github.io/
+    external: true

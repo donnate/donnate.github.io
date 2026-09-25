@@ -1,121 +1,124 @@
 ---
-layout: archive
-title: "Curriculum Vitae"
+layout: personal
+title: "Academic background"
 permalink: /cv/
-author_profile: true
+description: "Academic appointments, education, funding, recognition, and service for Claire Donnat."
+intro: "A selection of my academic experience, research support, and service."
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Academic appointments
 
-## Education 
-<img src="{{ site.baseurl }}/images/ginette.jpeg" alt="drawing" width="70" style="float: left; margin-right: 3em;"/>
-* __Classes Préparatoires aux Grandes Ecoles in Mathematics and Physics (MPSI/ MP*)__ in Lycée Privé Sainte Geneviève, Versailles, 2010-2012\\
-_2-year curriculum for the preparation to the "Concours National des Grandes Ecoles", a nation-wide competitive exam to be admitted in the French elite Institutes of Technology._
+<dl class="timeline">
+  <div class="timeline-row">
+    <dt>2020–present</dt>
+    <dd><h3>Assistant Professor of Statistics</h3><p>Department of Statistics, University of Chicago. Affiliated Scholar, Data Science Initiative.</p></dd>
+  </div>
+</dl>
 
+## Education
 
+<dl class="timeline">
+  <div class="timeline-row">
+    <dt>2015–2020</dt>
+    <dd><h3>Ph.D. in Statistics · Stanford University</h3><p>Advised by Susan Holmes and Jure Leskovec. Dissertation: <em>Uncertainty Quantification in Complex Networks with Applications to Brain Connectomics</em>. Mind, Brain, Computation and Technology graduate trainee, 2018–2020.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>École Polytechnique</dt>
+    <dd><h3>Engineering diploma and M.Sc. in Applied Mathematics</h3><p>Diplôme d’Ingénieur Polytechnicien; M.Sc. in Applied Mathematics, Data Science track. Palaiseau, France.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2010–2012</dt>
+    <dd><h3>Lycée Sainte-Geneviève</h3><p>MPSI/MP* preparatory program in mathematics and physics. Versailles, France.</p></dd>
+  </div>
+</dl>
 
-<img src="{{ site.baseurl }}/images/x.png" alt="drawing" width="70" style="float: left; margin-right: 3em;"/>
-* __Diplôme d'Ingénieur (B.S. equivalent)__, Ecole Polytechnique, 2014.\\
-_Major in Applied Mathematics, Physics and Engineering Sciences._ 
-* __M.S. in Applied Mathematics__, Ecole Polytechnique, 2015.\\
-_Major in Applied Mathematics and Data Science._ 
-<br />
+## Selected research funding
 
-<img src="{{ site.baseurl }}/images/stanford.png" alt="drawing" width="70" style="float: left; margin-right: 3em;"/>
-* __Ph.D in Statistics__, Stanford University, 2020.\\
-_Supervised by Prof. Susan Holmes, and co-advised by Prof. Jure Leskovec._ \\
-_**Thesis title:** Uncertainty Quantification in Networks with Applications to Brain Connectomics._ 
+<dl class="timeline">
+  <div class="timeline-row">
+    <dt>2026–2029</dt>
+    <dd><h3>NIH R01 · Spatially-Informed AI to Dissect Complex Cell-State Transitions in Tissue Niches</h3><p>Co-PI, with lead PI Samantha Riesenfeld and Thomas Gajewski.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2025–2028</dt>
+    <dd><h3>NSF IOS/EB · Evolution and Mechanisms of Thermotolerance in Cyanobacteria</h3><p>Co-PI, with lead PI Freddy Bunbury.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2025</dt>
+    <dd><h3>NITMB Internal Grant</h3><p>Multimodal Data Analysis for Uncovering Host-Microbiome Responses to Environmental Stress.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2023–2028</dt>
+    <dd><h3>NSF CAREER · Towards Responsible Graph Neural Networks</h3><p>Principal investigator. Award No. 2238616.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2023</dt>
+    <dd><h3>University of Chicago FACCT Grant</h3><p>Statistical Properties of Graph Neural Network Embeddings, with Olga Klopp.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2021</dt>
+    <dd><h3>Facebook Research Award</h3><p>Learning to Trust Graph Neural Networks, in the Statistics for Improving Insights, Models, and Decisions program. <a href="https://research.fb.com/blog/2021/08/announcing-the-winners-of-the-2021-statistics-for-improving-insights-models-and-decisions-request-for-proposals/">Award announcement</a>.</p></dd>
+  </div>
+</dl>
 
-<br />
+## Selected honors
 
-  
-  
-## Work experience
+<dl class="timeline">
+  <div class="timeline-row">
+    <dt>2026</dt>
+    <dd><h3>ICML Gold Reviewer</h3></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2023</dt>
+    <dd><h3>NSF CAREER Award</h3></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2022</dt>
+    <dd><h3>Simons–Google Fellow</h3><p>Graph Limits and Processes on Networks: From Epidemics to Misinformation workshop.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2020</dt>
+    <dd><h3>First place · COVID-19 research challenges</h3><p><a href="https://c3.ai/c3-ai-covid-19-grand-challenge/">C3.ai COVID-19 Grand Challenge</a>, Lumiata COVID-19 Hackathon, and COVIDathon.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2019</dt>
+    <dd><h3>University Centennial Teaching Award</h3><p>Stanford University.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2016</dt>
+    <dd><h3>Departmental Teaching Assistant Award</h3><p>Department of Statistics, Stanford University.</p></dd>
+  </div>
+</dl>
 
-<img src="{{ site.baseurl }}/images/uchicago.jpeg" alt="drawing" width="80" style="float: left; margin-right: 3em;"/>
-* __August 2020 - Present : Assistant Professor__\\
-__<span style="color: grey;">   Department of Statistics,  University of Chicago, *Chicago, Illinois, USA* </span>__ \\
-My research focuses on the analysis and development of methods for graph data. I am especially interested in biomedical and physics applications of these methods.
+## Professional service
 
-<img src="{{ site.baseurl }}/images/stanford.png" alt="drawing" width="80" style="float: left; margin-right: 3em;"/>
-* __January 2016 - June 2020: Teaching Assistant__\\
-__<span style="color: grey;">   Department of Statistics, Stanford University, *Stanford, California, USA* </span>__\\
-Responsibilities included preparing exams, homework assignments, holding office hours, leading recitation sessions and grading for classes of various sizes (from 60 to 220 students). Won one of the department’s __best Teaching Assistant awards in Spring 2016__ and a __University Centennial award in Spring 2019__.
+- **Area chair:** ICLR 2023; NeurIPS 2025–2026.
+- **Conference reviewer:** ICML 2019–2026; NeurIPS 2020–2024; CVPR 2022.
+- **Journal reviewer:** TMLR, JASA, *The Annals of Statistics*, and *Statistical Science*.
+- **NSF panelist:** Division of Mathematical Sciences, Statistics Panel B, winter 2021.
+- **Statistical consulting:** co-leads the University of Chicago Statistics Consulting Program with Mei Wang.
 
+## Earlier research and industry experience
 
-<img src="{{ site.baseurl }}/images/hrt.png" alt="drawing" width="80" style="float: left; margin-right: 3em;"/>
-* __June 2019-August 2019: HAIL Research Fellow in the AI team__\\
-__<span style="color: grey;">   Hudson River Trading, *New York, New York, USA* </span>__\\
-Fellowship in HRT’s AI Research Lab, focusing on using deep-learning techniques for time series and market structure analysis.
+<dl class="timeline">
+  <div class="timeline-row">
+    <dt>2019</dt>
+    <dd><h3>HAIL Research Fellow · Hudson River Trading</h3><p>Deep-learning methods for time series and market-structure analysis. New York.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2018</dt>
+    <dd><h3>Ph.D. Research Intern · Facebook Core Data Science</h3><p>Graph classification for understanding user-group dynamics. Menlo Park, California.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2017</dt>
+    <dd><h3>Quantitative Research Intern · G-Research</h3><p>Statistical and machine-learning analysis of financial data. London.</p></dd>
+  </div>
+  <div class="timeline-row">
+    <dt>2015</dt>
+    <dd><h3>Visiting Graduate Scholar · Johns Hopkins University</h3><p>Research in René Vidal’s Vision Lab on scalable sparse subspace clustering for computer vision. Received a Research Internship Award from École Polytechnique’s Department of Applied Mathematics.</p></dd>
+  </div>
+</dl>
 
-<img src="{{ site.baseurl }}/images/fb.png" alt="drawing" width="80" style="float: left; margin-right: 3em;"/>
-* __June 2018-September 2018: PhD Research Intern in Core Data Science__\\
-__<span style="color: grey;">   Facebook, *Menlo Park, California, USA* </span>__\\
-Summer research internship as part of the Core Data Science team at Facebook, working on graph classification to improve understanding of user groups’ dynamics.
-
-<img src="{{ site.baseurl }}/images/gresearch.jpeg" alt="drawing" width="80" style="float: left; margin-right: 3em;"/>
-* __June 2017-August 2017: Quantitative Analyst -Research Intern__\\
-__<span style="color: grey;">  G-Research, *London, UK* </span>__\\
-Summer research internship as a Quantitative Research Analyst Intern at G-Research, Europe’s largest quantitative hedge fund, which leverages tools from statistics and machine learning to analyze financial datasets .
-
-<img src="{{ site.baseurl }}/images/hopkins.jpeg" alt="drawing" width="80" style="float: left; margin-right: 3em;"/>
-* __March 2015-August 2015: Visting Graduate Scholar__\\
-__<span style="color: grey;"> Vision Lab, Johns Hopkins University, *Baltimore, Maryland, USA* </span>__\\
-5-month research internship as a Visiting Scholar in the Vision Lab (as part of Ecole Polytechnique's requirements), supervised by Prof. René Vidal.
-Development of scalable algorithms for Sparse Subspace Clustering with applications to Computer Vision Research project was granted a Research Internship award from Ecole Polytechnique’s Department of Applied Mathematics (CMAP).
-
-
-###  Undergraduate Work experiences
-<img src="{{ site.baseurl }}/images/edf.png" alt="drawing" width="80" style="float: left; margin-right: 3em;"/>
-* __July 2014-August 2014: IT Intern__\\
-__<span style="color: grey;">  Bugey Nuclear Power Plant, EDF, *France* </span>__\\
-7-week internship as IT assistant in a specialized unit (CEIDRE) of EDF (France's biggest Electrical Company), specialized in infrastructure and system maintenance control in nuclear power plants.
-
-<img src="{{ site.baseurl }}/images/rima.jpeg" alt="drawing" width="80" style="float: left; margin-right: 3em;"/>
-* __December 2012-April 2013: Officer Cadet__\\
-__<span style="color: grey;">  3eme Regiment D'Infanterie de Marine, *Vannes, France* </span>__\\
-As part of Ecole Polytechnique's first year training.
-Responsibilities included assisting lieutenants with the organization of night and day drills for their platoons, following the privates undertaking these drills (commando initiation, 3-day evaluation walks, etc.) and tutoring groups of 8 to 45 privates in a wide range of subjects (mathematics, topography).
-
-<img src="{{ site.baseurl }}/images/x.png" alt="drawing" width="80" style="float: left; margin-right: 3em;"/>
-* __August 2012-December 2012: Officer Cadet training__\\
-__<span style="color: grey;">  Ecole Militaire de St Cyr Coetquidan, *France* </span>__\\
-Military training at the Ecoles Militaires de Saint-Cyr (French military academy) as part of the first year military training at Ecole Polytechnique.
-Was promoted to Officer Cadet.
-<br />
-<br />
-<br />
-<br />
-  
-## Honors and Awards
-
-* __Facebook Research Award Recipient__: ``Statistics for Improving Insights, Models, and Decision''  track (2021).\\
-[Link to the blog post.](https://research.fb.com/blog/2021/08/announcing-the-winners-of-the-2021-statistics-for-improving-insights-models-and-decisions-request-for-proposals/)
-* __C3.AI COVID Grand Challenge winner__ (2020): 1st place --- 100,000 dollars price.\\
-[Link to a video presentation of our submission](https://c3.ai/c3-ai-covid-19-grand-challenge/)
-* __Lumiata COVID-19 hackathon overall winner__  (2020): 1st place --- 10,000 dollars price.
-* __Stanford University Centennial Award__  (2019).
-* __Stanford Statistics best Teaching Assistant award__  (2016).
-* __Research Internship award__ from Ecole Polytechnique’s Department of Applied Mathematics (CMAP) (2015).
-  
-  
-
-
-##  Publications
-
-  <ul>{% for post in site.publications reversed  %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Talks
-
-  <ul>{% for post in site.talks  reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-  
-
-  
-
+See my [publications]({{ '/publications/' | relative_url }}), [teaching]({{ '/teaching/' | relative_url }}), and [talks]({{ '/talks/' | relative_url }}), or visit the [SIGNAL Lab](https://signal-lab-uchicago.github.io/) for current projects and group members.

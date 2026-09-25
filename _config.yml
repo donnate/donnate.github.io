@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Claire Donnat / Personal Website"
+title                    : "Claire Donnat"
 title_separator          : "-"
 name                     : &name "Claire Donnat"
-description              : &description "personal description"
+description              : &description "Claire Donnat, Assistant Professor of Statistics at the University of Chicago. Statistical methods for structured data, graph learning, and biology."
 url                      : https://donnate.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "donnate.github.io"
@@ -122,6 +122,7 @@ include:
   - _pages
   - files
 exclude:
+  - files/cv_DONNAT_sept_2026.pdf
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
