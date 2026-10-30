@@ -31,9 +31,19 @@ redirect_from:
 <section class="section" aria-labelledby="papers-heading">
   <div class="section-heading"><h2 id="papers-heading">Selected recent work</h2><a class="text-link" href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">→</span></a></div>
   <div class="publication-list">
-    <article class="publication"><p class="publication-meta">2026 · Journal of Machine Learning Research</p><h3><a href="https://jmlr.org/papers/v27/25-0196.html">Canonical Correlation Analysis as Reduced Rank Regression in High Dimensions</a></h3><p>Claire Donnat and Elena Tuzhilina</p></article>
-    <article class="publication"><p class="publication-meta">2026 · ICML</p><h3><a href="https://arxiv.org/abs/2509.24100">SpeedCP: Fast Kernel-based Conditional Conformal Prediction</a></h3><p>Yating Liu, Yeo Jin Jung, Zixuan Wu, So Won Jeong, and Claire Donnat</p></article>
-    <article class="publication"><p class="publication-meta">2026 · Journal of Machine Learning Research · Accepted</p><h3><a href="https://arxiv.org/abs/2501.00535">Tensor Topic Modeling via HOSVD</a></h3><p>Yating Liu and Claire Donnat</p></article>
+    <article class="publication" id="safe-drift">
+      <p class="publication-meta">Manuscript · Submitted to NeurIPS 2026</p>
+      <h3><a href="{{ '/files/papers/safe-drift-neurips-2026.pdf' | relative_url }}">SAFE-DRIFT: Data Selection for Supervised Fine-tuning with Controllable Off-Target Drifts</a></h3>
+      <p class="authors">Yeo Jin Jung, Yating Liu, Lalchand Pandia, and <strong>Claire Donnat</strong>.</p>
+      <p class="publication-links"><a href="{{ '/files/papers/safe-drift-neurips-2026.pdf' | relative_url }}" aria-label="PDF: SAFE-DRIFT: Data Selection for Supervised Fine-tuning with Controllable Off-Target Drifts">PDF</a></p>
+    </article>
+    <article class="publication" id="brain-connectome">
+      <p class="publication-meta">Manuscript · Submitted to NeurIPS 2026</p>
+      <h3><a href="{{ '/files/papers/brain-connectome-neurips-2026.pdf' | relative_url }}">Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?</a></h3>
+      <p class="authors">Tommaso Castellani, Hong Chen, Rezwana Razzaque, Helmut Laufs, Muriah Wheelock, Jiaqi Li, and <strong>Claire Donnat</strong>.</p>
+      <p class="publication-links"><a href="{{ '/files/papers/brain-connectome-neurips-2026.pdf' | relative_url }}" aria-label="PDF: Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?">PDF</a></p>
+    </article>
+    <article class="publication"><p class="publication-meta">2026 · Journal of Machine Learning Research (JMLR) · Accepted</p><h3><a href="https://arxiv.org/abs/2501.00535">Tensor Topic Modeling via HOSVD</a></h3><p>Yating Liu and Claire Donnat</p></article>
   </div>
 </section>
 <section class="section contact-strip" aria-label="Background and contact">
