@@ -19,6 +19,18 @@ permalink: /publications/
 <section class="content-section" aria-labelledby="publications-2026">
   <h2 id="publications-2026">2026 publications</h2>
   <div class="publication-list">
+    <article class="publication" id="safe-drift">
+      <p class="publication-meta">NeurIPS 2026 · Accepted</p>
+      <h3><a href="{{ '/files/papers/safe-drift-neurips-2026.pdf' | relative_url }}">SAFE-DRIFT: Data Selection for Supervised Fine-tuning with Controllable Off-Target Drifts</a></h3>
+      <p class="authors">Yeo Jin Jung, Yating Liu, Lalchand Pandia, and <strong>Claire Donnat</strong>.</p>
+      <p class="publication-links"><a href="{{ '/files/papers/safe-drift-neurips-2026.pdf' | relative_url }}" aria-label="PDF: SAFE-DRIFT: Data Selection for Supervised Fine-tuning with Controllable Off-Target Drifts">PDF</a></p>
+    </article>
+    <article class="publication" id="brain-connectome">
+      <p class="publication-meta">NeurIPS 2026 · Accepted</p>
+      <h3><a href="{{ '/files/papers/brain-connectome-neurips-2026.pdf' | relative_url }}">Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?</a></h3>
+      <p class="authors">Tommaso Castellani, Hong Chen, Rezwana Razzaque, Helmut Laufs, Muriah Wheelock, Jiaqi Li, and <strong>Claire Donnat</strong>.</p>
+      <p class="publication-links"><a href="{{ '/files/papers/brain-connectome-neurips-2026.pdf' | relative_url }}" aria-label="PDF: Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?">PDF</a></p>
+    </article>
     <article class="publication" id="tensor-topic-modeling">
       <p class="publication-meta">Journal of Machine Learning Research (JMLR) · Accepted · 2026</p>
       <h3><a href="https://arxiv.org/abs/2501.00535">Tensor Topic Modeling via HOSVD</a></h3>
@@ -158,18 +170,6 @@ permalink: /publications/
 <section class="content-section" aria-labelledby="preprints">
   <h2 id="preprints">Preprints &amp; manuscripts</h2>
   <div class="publication-list">
-    <article class="publication" id="safe-drift">
-      <p class="publication-meta">Manuscript · Submitted to NeurIPS 2026</p>
-      <h3><a href="{{ '/files/papers/safe-drift-neurips-2026.pdf' | relative_url }}">SAFE-DRIFT: Data Selection for Supervised Fine-tuning with Controllable Off-Target Drifts</a></h3>
-      <p class="authors">Yeo Jin Jung, Yating Liu, Lalchand Pandia, and <strong>Claire Donnat</strong>.</p>
-      <p class="publication-links"><a href="{{ '/files/papers/safe-drift-neurips-2026.pdf' | relative_url }}" aria-label="PDF: SAFE-DRIFT: Data Selection for Supervised Fine-tuning with Controllable Off-Target Drifts">PDF</a></p>
-    </article>
-    <article class="publication" id="brain-connectome">
-      <p class="publication-meta">Manuscript · Submitted to NeurIPS 2026</p>
-      <h3><a href="{{ '/files/papers/brain-connectome-neurips-2026.pdf' | relative_url }}">Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?</a></h3>
-      <p class="authors">Tommaso Castellani, Hong Chen, Rezwana Razzaque, Helmut Laufs, Muriah Wheelock, Jiaqi Li, and <strong>Claire Donnat</strong>.</p>
-      <p class="publication-links"><a href="{{ '/files/papers/brain-connectome-neurips-2026.pdf' | relative_url }}" aria-label="PDF: Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?">PDF</a></p>
-    </article>
     <article class="publication" id="vitamin-sharing">
       <p class="publication-meta">bioRxiv · 2026</p>
       <h3><a href="https://www.biorxiv.org/content/10.64898/2026.09.01.748612">Bacterial vitamin sharing emerges from a balance between release and uptake</a></h3>
